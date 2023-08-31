@@ -1,1 +1,1 @@
-# Portfolio Projects Using C and Bash
+# Portfolio Projects Using C and Shell Script
